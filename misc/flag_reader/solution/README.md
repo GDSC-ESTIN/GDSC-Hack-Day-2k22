@@ -2,9 +2,9 @@
 
 ## Write-up
 
-as you can see the input should be **.**  
-and that is because the flag file exists in the same directory as jail.py so the directory have to be './flag.txt'  
+as you can see the input should be **..**  
+So you need to go back to previous directory in order to read the './flag.txt'  
 
 ## Flag
 
-`GDSC{C0ngr4ts_f0r_3scap!ng_th3_ja!l}`
+`GDSC{Rel3tit3ve_P4ths_4re_dangerous}`

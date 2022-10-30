@@ -1,0 +1,22 @@
+name: "cookies"
+author: "Muhammad"
+author_link: "https://github.com/muhammadbkf"
+category: web
+difficulty: ezmed
+description: |
+  > Can you be admin?  
+
+  **Author** : Muhammad
+flags:
+  - GDSC{Fl4g_for_a_r34l_Adm1n}
+
+connection_info: http://172.16.1.60:40000
+
+tags:
+  - linux
+  - hidden
+
+value: 100
+type: standard
+state: visible
+version: "0.1"

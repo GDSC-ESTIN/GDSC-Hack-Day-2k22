@@ -1,0 +1,23 @@
+name: "bases"
+author: "Muhammad"
+author_link: "https://github.com/muhammedbkf"
+category: crypto
+difficulty: easy
+description: |
+  > Have you ever heard of a text encoding that usually ends with a `=`?  
+
+  **Author** : Muhammad
+
+flags:
+  - GDSC{BASE64_is_just_a_T3xt_3nc0d1ng_format}
+
+tags:
+  - encoding
+
+files:
+  - challenge/flag
+
+value: 50
+type: standard
+state: visible
+version: "0.1"

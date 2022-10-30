@@ -1,0 +1,25 @@
+name: UnzipMe
+author: "Muhammad"
+author_link: "http://github.com/muhammedbkf"
+category: programming
+difficulty: med
+description: |
+  > A secret file was zipped by mistake 1337 times.  
+  > I don't have time to unzip it manually but I was told you are good at scripting and can do it for me.  
+  > Is it true?  
+
+  **Author** : Muhammad
+flags:
+  - GDSC{A_g00D_h4ck3r_5hould_h4v3_5Tr0ng_scr1pt1ng_5k1lls}
+
+tags:
+  - zip
+  - programming
+
+files:
+  - challenge/flag1337.zip
+
+value: 200
+type: standard
+state: visible
+version: "0.1"

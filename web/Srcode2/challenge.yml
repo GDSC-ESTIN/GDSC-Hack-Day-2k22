@@ -1,0 +1,32 @@
+name: "Srcode2"
+author: "mo_4m1n3"
+
+category: web
+
+difficulty: ezmed
+
+description: |
+  > When inspecting a website, never ignore files!  
+  
+  **Author** : mo_4m1n3
+  
+flags:
+  - GDSC{Always_ch3ck_th3_S0urc3_C0de!!}
+
+
+
+connection_info: http://172.16.1.60:40010
+
+
+topics:
+  - web
+
+tags:
+  - web
+
+
+value: 100
+type: standard
+
+state: hidden
+version: "0.1"

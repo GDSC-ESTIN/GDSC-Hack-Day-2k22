@@ -1,0 +1,8 @@
+version: '3.3'
+
+services:
+
+  web_srcode:
+    build: .
+    ports:
+      - '40010:1337'

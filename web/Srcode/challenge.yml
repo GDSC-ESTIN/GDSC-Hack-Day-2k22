@@ -1,0 +1,28 @@
+name: "Srcode"
+author: "B1g_R0m1"
+author_link: "https://github.com/AbdouRoumi"
+
+category: web
+
+difficulty: easy
+
+description: |
+  > Don't Look Too Far!  
+
+  **Author** : B1g_R0m1
+flags:
+  - GDSC{HTML_?s_t00_eZ}
+
+
+connection_info: http://172.16.1.60:40030
+
+
+tags:
+  - web
+
+
+value: 50
+type: standard
+
+state: visible
+version: "0.1"

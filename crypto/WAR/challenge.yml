@@ -1,0 +1,28 @@
+name: "WAR"
+author: "Sami_Mst"
+author_link: "https://github.com/Sami-mst"
+category: crypto
+difficulty: easy
+
+description: |
+  > We are in the middle of the Gallic War.  
+  > We have just intercepted a message sent by the leader of the Roman army, `Caesar`, to his generals!  
+  > We must decrypt it quickly to be informed of their next move!  
+
+  **Author** : Sami_mst
+
+flags:
+  - GDSC{N1ce_M0v3_Caesar}
+
+topics:
+  - cyptography
+tags:
+  - crypto
+
+files:
+  - challenge/message.txt
+
+value: 100
+type: standard
+state: visible
+version: "0.1"

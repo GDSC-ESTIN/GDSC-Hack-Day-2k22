@@ -1,0 +1,1 @@
+/* actually i did not use js but take the last part of the flag: S0urc3_C0de!!} */

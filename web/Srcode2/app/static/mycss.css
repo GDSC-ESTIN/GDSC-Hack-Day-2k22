@@ -1,0 +1,32 @@
+div {
+    width: 100%;
+}
+
+header {
+    background-color: rgb(255, 136, 136);
+    padding: 0, 5em;
+    color: white;
+    clear: right;
+    text-align: center;
+}
+
+body {
+    font-family: Roboto;
+}
+
+h1 {
+    color: white;
+}
+
+p {
+    font-family: "Open Sans";
+}
+
+#description {
+    background-color: rgb(68, 68, 68);
+    text-align: center;
+    color: white;
+}
+
+
+/* Here the second part of the flag: ck_th3_ */

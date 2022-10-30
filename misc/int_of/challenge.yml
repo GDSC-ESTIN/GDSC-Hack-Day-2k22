@@ -1,0 +1,43 @@
+
+name: "int_of"
+author: "B1g_R0m1"
+author_link: "https://github.com/AbdouRoumi"
+
+category: misc
+
+difficulty: mehard
+
+description: |
+  Hello there, did u hear before about binary exploitation?!. I created this simple code to hide a secret, can u exploit it?
+  **Author** : B1g_R0m1
+flags:
+
+  - GDSC{WeLc0m3_t0_Th3_ArT_0f_B!naRy_3xPl0!taT!0n}
+
+
+
+connection_info: nc hostname 12345
+
+topics:
+  - integer overflow  
+
+tags:
+  - c language  
+  -pwn  
+
+# Files to be uploaded alongside the challenge in CTFd
+# These paths are relative to the same directory where the challenge.yml file is.
+files:
+  - challenge/vuln.c  
+  - challenge/vuln 
+
+# DO NOT CHANGE
+#
+value: 500
+type: dynamic
+extra:
+    initial: 500
+    decay: 15
+    minimum: 50
+state: hidden
+version: "0.1"

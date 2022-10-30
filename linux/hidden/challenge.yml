@@ -1,0 +1,23 @@
+name: "hidden"
+author: "Muhammad"
+author_link: "https://github.com/muhammadbkf"
+category: linux
+difficulty: easy
+description: |
+  > Nothing to see here just an empty folder ...  
+
+  **Password** : ctf  
+  **Author** : Muhammad
+flags:
+  - GDSC{4lwa45_ch3ck_f0R_Hidden_files}
+
+connection_info: ssh ctf@172.16.1.60 -p 40110
+
+tags:
+  - linux
+  - hidden
+
+value: 50
+type: standard
+state: visible
+version: "0.1"

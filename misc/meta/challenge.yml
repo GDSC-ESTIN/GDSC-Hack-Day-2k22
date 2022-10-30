@@ -1,0 +1,19 @@
+name: "meta"
+author: "mo_4m1n3"
+category: misc
+difficulty: easy
+description: |
+  > My friend sent me this image. He told me there is a secret in it, can you find it for me?  
+  
+  **Author** : mo_4m1n3
+flags:
+  - GDSC{R3ad1ng_M3t4_d4t4_1s_1mp0r4nt}
+tags:
+  - forensics
+  - metadata
+files:
+  - image.png
+value: 50
+type: standard
+state: visible
+version: "0.1"

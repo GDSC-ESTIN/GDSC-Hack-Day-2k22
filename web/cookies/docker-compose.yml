@@ -1,0 +1,8 @@
+version: '3.3'
+
+services:
+
+  linux:
+    build: .
+    ports:
+      - '40000:1337'

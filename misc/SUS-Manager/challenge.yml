@@ -1,0 +1,25 @@
+name: "SUS Manager"
+author: "Muhammad"
+author_link: "https://github.com/muhammedbkf"
+category: misc
+
+difficulty: easy
+
+description: |
+  > We suspect one of the GDSC Managers is hiding something on Discord.  
+  > Can you help up finding it out?  
+
+  **Author** : Muhammad
+
+flags:
+  - GDSC{0S1n7_can_B3_uS3fuLL_s0M371M3s}
+
+tags:
+  - OSINT
+  - Discord
+
+value: 50
+type: standard
+
+state: visible
+version: "0.1"

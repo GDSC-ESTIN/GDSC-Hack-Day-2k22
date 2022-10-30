@@ -1,0 +1,29 @@
+name: "flag in a file"
+
+author: "Muhammad"
+
+author_link: "https://github.com/muhammedBkf/"
+
+category: linux
+
+difficulty: easy
+
+description: |
+  > Do you know a tool that helps you find text in a file?  
+
+  **Password** : ctf  
+  **Author** : Muhammad
+
+flags:
+  - GDSC{gr3p_15_4_mu5t_kn0W_t00L}
+
+connection_info: ssh ctf@172.16.1.60 -p 40100
+
+tags:
+  - linux
+
+value: 50
+type: standard
+
+state: visible
+version: "0.1"

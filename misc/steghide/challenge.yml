@@ -1,0 +1,33 @@
+name: "steghide"
+author: "mo_4m1n3"
+
+category: forensics
+
+difficulty: easy
+description: |
+  can u get the flag using this password?  
+  password: GDSC  
+  **Author** : mo_4m1n3
+flags:
+  - GDSC{ooi_st3gh1d3_1s_us3ful}
+
+topics:
+  - forensics
+  - steganography
+  
+tags:
+  - steg
+  - misc
+
+
+files:
+  - images.jfif
+
+value: 500
+type: dynamic
+extra:
+    initial: 500
+    decay: 15
+    minimum: 50
+state: hidden
+version: "0.1"

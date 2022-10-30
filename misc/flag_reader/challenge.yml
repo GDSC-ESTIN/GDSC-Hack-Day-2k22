@@ -1,0 +1,30 @@
+name: "flag reader"
+author: "samdem"
+author_link: "https://github.com/samdem-ai"
+category: misc
+difficulty: ezmed
+
+description: |
+  > Can you read the flag?  
+  > It's located at: `/challenge/flag.txt`
+
+
+  **Author** : samdem
+flags:
+  - GDSC{Rel3tit3ve_P4ths_4re_dangerous}
+
+connection_info: nc 172.16.1.60 40200
+
+tags:
+  - path
+  - python
+
+files:
+  - challenge/main.py
+
+
+value: 100
+type: standard
+
+state: visible
+version: "0.1"

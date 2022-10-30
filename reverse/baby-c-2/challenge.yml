@@ -1,0 +1,28 @@
+name: "baby-c 2"
+author: "Muhammad"
+author_link: "https://github.com/muhammedbkf"
+category: reverse
+difficulty: ezmed
+description: |
+  > I heard you started learning C programming.  
+  > Prove that to me by reversing my code.  
+
+  **Author** : Muhammad
+flags:
+  - GDSC{1Ts_Ju55t_3v3n_&_0DD_bytes}
+
+topics:
+  - Reverse Engineering
+  - C programming
+
+tags:
+  - reverse
+
+files:
+  - chall/chall.c
+  - chall/chall
+
+value: 150
+type: standard
+state: visible
+version: "0.1"

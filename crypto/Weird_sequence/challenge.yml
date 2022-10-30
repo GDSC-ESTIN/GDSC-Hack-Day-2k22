@@ -1,0 +1,26 @@
+name: "Weird_sequence"
+author: "Sami_Mst"
+author_link: "https://github.com/Sami-mst"
+category: crypto
+difficulty: easy
+description: |
+  > Our electrical telegraph has just intercepted a weird sequence of pulses    
+  > I wonder what that means  
+  > **wrap what you found in GDCS{...} (UPPERCASE)**  
+
+  **Author** : Sami_mst
+flags:
+  - GDSC{SAVE-OUR-SOULS}
+
+topics:
+  - cyptography
+tags:
+  - crypto
+
+files:
+  - challenge/message.txt
+
+value: 50
+type: standard
+state: visible
+version: "0.1"
